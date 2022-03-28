@@ -52,7 +52,7 @@ class Bank {
     }
 }
 
-public class ExBank {
+class ExBank {
     public static void main(String arg[]) {
         Scanner KB = new Scanner(System.in);
 
